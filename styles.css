@@ -1,0 +1,118 @@
+.grid-container {
+  display: grid;
+    width: 100%;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-image: url(seerobbe.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow:hidden;
+  padding: 0px;
+}
+.grid-item {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  font-size: 60px;
+    height: 33vw;
+  text-align: center;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    cursor:pointer;
+}
+
+h1 {
+    font-family:"Lucida Console";
+    color: blueviolet;
+   text-align: center;
+    font-size: 36px;
+} 
+
+#one {
+    background-image:url(Bilder/Background/BG_1.jpg);
+}
+
+img {
+    height: 17.6vw;
+    padding-top: calc(17.6vw/2);
+}
+
+#two {
+    background-image:url(Bilder/Background/BG_2.jpg);
+}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+    
+}
+
+#three {
+    background-image:url(Bilder/Background/BG_3.jpg);
+}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#four {background-image: url(Bilder/Background/BG_4.jpg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#five {background-image: url(Bilder/Background/BG_5.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#six {background-image: url(Bilder/Background/BG_6.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#seven {background-image: url(Bilder/Background/BG_7.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#eight {background-image: url(Bilder/Background/BG_8.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#nine {background-image: url(Bilder/Background/BG_9.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#ten {background-image: url(Bilder/Background/BG_10.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#eleven {background-image: url(Bilder/Background/BG_11.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
+
+#twelve {background-image: url(Bilder/Background/BG_12.jpeg)}
+
+img {
+    height: calc(33vw / 2);
+    padding-top: calc(33vw / 4);
+}
